@@ -707,3 +707,6 @@
 {"n":707,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the drum for the hold. 5 steps, arc on the left lane, open."}
 {"n":708,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. arc left open. 6 steps. The drum stays for the hold."}
 {"n":709,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Kessler alley. Nobody past the west mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":710,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the drum for the hold. 8 steps, arc on the left lane, open."}
+{"n":711,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. arc left open. 2 steps. The drum stays for the hold."}
+{"n":712,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Kessler alley. Nobody past the west mouth. We hold in 3 steps. Arc on the left lane, open."}
