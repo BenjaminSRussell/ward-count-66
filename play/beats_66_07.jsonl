@@ -646,3 +646,6 @@
 {"n":646,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Last Light. Nobody past the north mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":647,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light north mouth. Bess keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
 {"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The barrel stays for the hold."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at South stair. Nobody past the north mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":650,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair north mouth. Matt keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
+{"n":651,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. arc left open. 2 steps. The barrel stays for the hold."}
