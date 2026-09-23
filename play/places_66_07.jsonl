@@ -981,3 +981,6 @@
 {"n":981,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. arc left open. 3 steps. The lamp stays for the hold."}
 {"n":982,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Last Light. Nobody past the north mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":983,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north mouth. Bess keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
+{"n":984,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The lamp stays for the hold."}
+{"n":985,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at South stair. Nobody past the north mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":986,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair north mouth. Matt keeps the lamp for the hold. 8 steps, arc on the left lane, open."}
