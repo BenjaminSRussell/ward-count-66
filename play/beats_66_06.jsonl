@@ -38,3 +38,6 @@
 {"n":38,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at High line. Nobody past the east mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":39,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east mouth. Bess keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
 {"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Ward gate. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":42,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the rebar for the hold. 3 steps, arc on the left lane, open."}
+{"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. arc left open. 4 steps. The rebar stays for the hold."}
