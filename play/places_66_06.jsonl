@@ -814,3 +814,6 @@
 {"n":814,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east mouth. arc left open. 5 steps. The drum stays for the hold."}
 {"n":815,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at South stair. Nobody past the east mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":816,"kind":"place","name":"South stair east mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east mouth. Ivo keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east mouth. arc left open. 8 steps. The drum stays for the hold."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at South stair. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"South stair east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east mouth. Bess keeps the drum for the hold. 3 steps, arc on the left lane, open."}
