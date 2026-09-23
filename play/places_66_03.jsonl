@@ -733,3 +733,6 @@
 {"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west mouth. arc left open. 4 steps. The crate stays for the hold."}
 {"n":734,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Stockyard fence. Nobody past the west mouth. We hold in 5 steps. Arc on the left lane, open."}
 {"n":735,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west mouth. Bess keeps the crate for the hold. 6 steps, arc on the left lane, open."}
+{"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west mouth. arc left open. 7 steps. The crate stays for the hold."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Mall court. Nobody past the west mouth. We hold in 8 steps. Arc on the left lane, open."}
+{"n":738,"kind":"place","name":"Mall court west mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west mouth. Matt keeps the crate for the hold. 2 steps, arc on the left lane, open."}
