@@ -152,3 +152,6 @@
 {"n":152,"kind":"place","name":"South stair east mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east mouth. Ivo keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
 {"n":153,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east mouth. arc left open. 8 steps. The radio coil stays for the hold."}
 {"n":154,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at South stair. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":155,"kind":"place","name":"South stair east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east mouth. Bess keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
+{"n":156,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east mouth. arc left open. 4 steps. The radio coil stays for the hold."}
+{"n":157,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the pier. Nobody past the east mouth. We hold in 5 steps. Arc on the left lane, open."}
