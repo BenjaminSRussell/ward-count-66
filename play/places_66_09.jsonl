@@ -766,3 +766,6 @@
 {"n":766,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south mouth. arc left open. 3 steps. The crate stays for the hold."}
 {"n":767,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the Lot. Nobody past the south mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":768,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the crate for the hold. 5 steps, arc on the left lane, open."}
+{"n":769,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. arc left open. 6 steps. The crate stays for the hold."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the Lot. Nobody past the south mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":771,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south mouth. Bess keeps the crate for the hold. 8 steps, arc on the left lane, open."}
