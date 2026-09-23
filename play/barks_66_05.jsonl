@@ -517,3 +517,6 @@
 {"n":517,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east mouth. Nia keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
 {"n":518,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east mouth. arc left open. 4 steps. The hydrant stays for the hold."}
 {"n":519,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Drydock. Nobody past the east mouth. We hold in 5 steps. Arc on the left lane, open."}
+{"n":520,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east mouth. Ivo keeps the hydrant for the hold. 6 steps, arc on the left lane, open."}
+{"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east mouth. arc left open. 7 steps. The hydrant stays for the hold."}
+{"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Drydock. Nobody past the east mouth. We hold in 8 steps. Arc on the left lane, open."}
