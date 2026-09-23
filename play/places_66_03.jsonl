@@ -664,3 +664,6 @@
 {"n":664,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west mouth. arc left open. 5 steps. The barrel stays for the hold."}
 {"n":665,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Drydock. Nobody past the west mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":666,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west mouth. Matt keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
+{"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west mouth. arc left open. 8 steps. The barrel stays for the hold."}
+{"n":668,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Drydock. Nobody past the west mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":669,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west mouth. Nia keeps the barrel for the hold. 3 steps, arc on the left lane, open."}
