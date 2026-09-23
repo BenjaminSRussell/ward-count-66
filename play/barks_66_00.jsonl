@@ -912,3 +912,6 @@
 {"n":912,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard north curb. Ivo keeps the badge door for the hold. 4 steps, arc on the left lane, open."}
 {"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north curb. arc left open. 5 steps. The badge door stays for the hold."}
 {"n":914,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Mast yard. Nobody past the north curb. We hold in 6 steps. Arc on the left lane, open."}
+{"n":915,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north curb. Bess keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
+{"n":916,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. arc left open. 8 steps. The badge door stays for the hold."}
+{"n":917,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Last Light. Nobody past the north curb. We hold in 2 steps. Arc on the left lane, open."}
