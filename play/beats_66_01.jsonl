@@ -142,3 +142,6 @@
 {"n":142,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Switchyard. Nobody past the north curb. We hold in 3 steps. Arc on the left lane, open."}
 {"n":143,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north curb. Bess keeps the radio coil for the hold. 4 steps, arc on the left lane, open."}
 {"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north curb. arc left open. 5 steps. The radio coil stays for the hold."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Drydock. Nobody past the north curb. We hold in 6 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north curb. Matt keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
+{"n":147,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north curb. arc left open. 8 steps. The radio coil stays for the hold."}
