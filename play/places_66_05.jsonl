@@ -326,3 +326,6 @@
 {"n":326,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east mouth. arc left open. 8 steps. The plywood stays for the hold."}
 {"n":327,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Clinic roof. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
 {"n":328,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof east mouth. Ivo keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
+{"n":329,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east mouth. arc left open. 4 steps. The plywood stays for the hold."}
+{"n":330,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Clinic roof. Nobody past the east mouth. We hold in 5 steps. Arc on the left lane, open."}
+{"n":331,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east mouth. Bess keeps the plywood for the hold. 6 steps, arc on the left lane, open."}
