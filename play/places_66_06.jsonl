@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east mouth. arc left open. 5 steps. The shutter stays for the hold."}
 {"n":395,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Kessler alley. Nobody past the east mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":396,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east mouth. Ivo keeps the shutter for the hold. 7 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east mouth. arc left open. 8 steps. The shutter stays for the hold."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":399,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east mouth. Bess keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
