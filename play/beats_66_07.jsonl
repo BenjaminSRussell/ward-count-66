@@ -382,3 +382,6 @@
 {"n":382,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at High line. Nobody past the north mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":383,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north mouth. Bess keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
 {"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. arc left open. 8 steps. The plywood stays for the hold."}
+{"n":385,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":386,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
+{"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north mouth. arc left open. 4 steps. The hydrant stays for the hold."}
