@@ -989,3 +989,6 @@
 {"n":989,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south curb. Nia keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
 {"n":990,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south curb. arc left open. 4 steps. The lamp stays for the hold."}
 {"n":991,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Drydock. Nobody past the south curb. We hold in 5 steps. Arc on the left lane, open."}
+{"n":992,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south curb. Ivo keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
+{"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south curb. arc left open. 7 steps. The lamp stays for the hold."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Drydock. Nobody past the south curb. We hold in 8 steps. Arc on the left lane, open."}
