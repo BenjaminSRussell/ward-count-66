@@ -698,3 +698,6 @@
 {"n":698,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east mouth. arc left open. 2 steps. The barrel stays for the hold."}
 {"n":699,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at High line. Nobody past the east mouth. We hold in 3 steps. Arc on the left lane, open."}
 {"n":700,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east mouth. Ivo keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
+{"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. arc left open. 5 steps. The barrel stays for the hold."}
+{"n":702,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at High line. Nobody past the east mouth. We hold in 6 steps. Arc on the left lane, open."}
+{"n":703,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east mouth. Bess keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
