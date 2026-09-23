@@ -165,3 +165,6 @@
 {"n":165,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south curb. Nia keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
 {"n":166,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south curb. arc left open. 4 steps. The radio coil stays for the hold."}
 {"n":167,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Drydock. Nobody past the south curb. We hold in 5 steps. Arc on the left lane, open."}
+{"n":168,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south curb. Ivo keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
+{"n":169,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south curb. arc left open. 7 steps. The radio coil stays for the hold."}
+{"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Drydock. Nobody past the south curb. We hold in 8 steps. Arc on the left lane, open."}
