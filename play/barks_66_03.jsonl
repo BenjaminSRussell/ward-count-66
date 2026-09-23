@@ -507,3 +507,6 @@
 {"n":507,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west mouth. Bess keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
 {"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west mouth. arc left open. 3 steps. The hydrant stays for the hold."}
 {"n":509,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at High line. Nobody past the west mouth. We hold in 4 steps. Arc on the left lane, open."}
+{"n":510,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west mouth. Matt keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
+{"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west mouth. arc left open. 6 steps. The hydrant stays for the hold."}
+{"n":512,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at High line. Nobody past the west mouth. We hold in 7 steps. Arc on the left lane, open."}
