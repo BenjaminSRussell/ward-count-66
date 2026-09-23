@@ -778,3 +778,6 @@
 {"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north curb. arc left open. 3 steps. The drum stays for the hold."}
 {"n":779,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at the pier. Nobody past the north curb. We hold in 4 steps. Arc on the left lane, open."}
 {"n":780,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north curb. Ivo keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north curb. arc left open. 6 steps. The drum stays for the hold."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the pier. Nobody past the north curb. We hold in 7 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north curb. Bess keeps the drum for the hold. 8 steps, arc on the left lane, open."}
