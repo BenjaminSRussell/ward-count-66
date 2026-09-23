@@ -317,3 +317,6 @@
 {"n":317,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west mouth. Nia keeps the rope for the hold. 7 steps, arc on the left lane, open."}
 {"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west mouth. arc left open. 8 steps. The rope stays for the hold."}
 {"n":319,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Clinic roof. Nobody past the west mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":320,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west mouth. Ivo keeps the rope for the hold. 3 steps, arc on the left lane, open."}
+{"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west mouth. arc left open. 4 steps. The rope stays for the hold."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Clinic roof. Nobody past the west mouth. We hold in 5 steps. Arc on the left lane, open."}
