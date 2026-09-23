@@ -208,3 +208,6 @@
 {"n":208,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north mouth. Ivo keeps the rebar for the hold. 6 steps, arc on the left lane, open."}
 {"n":209,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north mouth. arc left open. 7 steps. The rebar stays for the hold."}
 {"n":210,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Drydock. Nobody past the north mouth. We hold in 8 steps. Arc on the left lane, open."}
+{"n":211,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north mouth. Bess keeps the rebar for the hold. 2 steps, arc on the left lane, open."}
+{"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north mouth. arc left open. 3 steps. The rebar stays for the hold."}
+{"n":213,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at High line. Nobody past the north mouth. We hold in 4 steps. Arc on the left lane, open."}
