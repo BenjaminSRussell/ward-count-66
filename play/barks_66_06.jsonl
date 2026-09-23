@@ -711,3 +711,6 @@
 {"n":711,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east mouth. Bess keeps the awning for the hold. 7 steps, arc on the left lane, open."}
 {"n":712,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. arc left open. 8 steps. The awning stays for the hold."}
 {"n":713,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Ward gate. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":714,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":715,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. arc left open. 4 steps. The drum stays for the hold."}
+{"n":716,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Ward gate. Nobody past the east mouth. We hold in 5 steps. Arc on the left lane, open."}
