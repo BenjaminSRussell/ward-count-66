@@ -25,3 +25,6 @@
 {"n":25,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. arc left open. 6 steps. The rebar stays for the hold."}
 {"n":26,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Lot. Nobody past the north curb. We hold in 7 steps. Arc on the left lane, open."}
 {"n":27,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north curb. Bess keeps the rebar for the hold. 8 steps, arc on the left lane, open."}
+{"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. arc left open. 2 steps. The rebar stays for the hold."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the north curb. We hold in 3 steps. Arc on the left lane, open."}
+{"n":30,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
