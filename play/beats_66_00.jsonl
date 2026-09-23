@@ -461,3 +461,6 @@
 {"n":461,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Switchyard. Nobody past the north curb. We hold in 8 steps. Arc on the left lane, open."}
 {"n":462,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard north curb. Matt keeps the shutter for the hold. 2 steps, arc on the left lane, open."}
 {"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north curb. arc left open. 3 steps. The shutter stays for the hold."}
+{"n":464,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the shutter at Switchyard. Nobody past the north curb. We hold in 4 steps. Arc on the left lane, open."}
+{"n":465,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard north curb. Nia keeps the shutter for the hold. 5 steps, arc on the left lane, open."}
+{"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north curb. arc left open. 6 steps. The shutter stays for the hold."}
