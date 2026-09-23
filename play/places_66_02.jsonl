@@ -740,3 +740,6 @@
 {"n":740,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south curb. arc left open. 5 steps. The drum stays for the hold."}
 {"n":741,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at the Underpass. Nobody past the south curb. We hold in 6 steps. Arc on the left lane, open."}
 {"n":742,"kind":"place","name":"the Underpass south curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south curb. Matt keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":743,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south curb. arc left open. 8 steps. The drum stays for the hold."}
+{"n":744,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at the Underpass. Nobody past the south curb. We hold in 2 steps. Arc on the left lane, open."}
+{"n":745,"kind":"place","name":"the Underpass south curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south curb. Nia keeps the drum for the hold. 3 steps, arc on the left lane, open."}
