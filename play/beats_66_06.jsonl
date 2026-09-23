@@ -338,3 +338,6 @@
 {"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Clinic roof. Nobody past the east mouth. We hold in 5 steps. Arc on the left lane, open."}
 {"n":339,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof east mouth. Bess keeps the rope for the hold. 6 steps, arc on the left lane, open."}
 {"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east mouth. arc left open. 7 steps. The rope stays for the hold."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Switchyard. Nobody past the east mouth. We hold in 8 steps. Arc on the left lane, open."}
+{"n":342,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east mouth. Matt keeps the rope for the hold. 2 steps, arc on the left lane, open."}
+{"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east mouth. arc left open. 3 steps. The rope stays for the hold."}
