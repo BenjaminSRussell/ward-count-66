@@ -393,3 +393,6 @@
 {"n":393,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence west mouth. Nia keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west mouth. arc left open. 8 steps. The hydrant stays for the hold."}
 {"n":395,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Stockyard fence. Nobody past the west mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":396,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west mouth. Ivo keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west mouth. arc left open. 4 steps. The hydrant stays for the hold."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the west mouth. We hold in 5 steps. Arc on the left lane, open."}
