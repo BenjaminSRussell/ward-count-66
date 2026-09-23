@@ -822,3 +822,6 @@
 {"n":822,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north mouth. arc left open. 5 steps. The crate stays for the hold."}
 {"n":823,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at South stair. Nobody past the north mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":824,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair north mouth. Ivo keeps the crate for the hold. 7 steps, arc on the left lane, open."}
+{"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north mouth. arc left open. 8 steps. The crate stays for the hold."}
+{"n":826,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at South stair. Nobody past the north mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":827,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair north mouth. Bess keeps the crate for the hold. 3 steps, arc on the left lane, open."}
