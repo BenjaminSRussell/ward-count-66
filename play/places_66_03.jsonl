@@ -178,3 +178,6 @@
 {"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south curb. arc left open. 2 steps. The radio coil stays for the hold."}
 {"n":179,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at High line. Nobody past the south curb. We hold in 3 steps. Arc on the left lane, open."}
 {"n":180,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south curb. Ivo keeps the radio coil for the hold. 4 steps, arc on the left lane, open."}
+{"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south curb. arc left open. 5 steps. The radio coil stays for the hold."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the south curb. We hold in 6 steps. Arc on the left lane, open."}
+{"n":183,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south curb. Bess keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
