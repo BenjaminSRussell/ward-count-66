@@ -22,3 +22,6 @@
 {"n":22,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the north curb. We hold in 2 steps. Arc on the left lane, open."}
 {"n":23,"kind":"place","name":"Kessler alley north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north curb. Bess keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
 {"n":24,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north curb. arc left open. 4 steps. The radio coil stays for the hold."}
+{"n":25,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the Lot. Nobody past the north curb. We hold in 5 steps. Arc on the left lane, open."}
+{"n":26,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot north curb. Matt keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
+{"n":27,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north curb. arc left open. 7 steps. The radio coil stays for the hold."}
