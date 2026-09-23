@@ -189,3 +189,6 @@
 {"n":189,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west mouth. arc left open. 5 steps. The rebar stays for the hold."}
 {"n":190,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at High line. Nobody past the west mouth. We hold in 6 steps. Arc on the left lane, open."}
 {"n":191,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west mouth. Bess keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
+{"n":192,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west mouth. arc left open. 8 steps. The rebar stays for the hold."}
+{"n":193,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Ward gate. Nobody past the west mouth. We hold in 2 steps. Arc on the left lane, open."}
+{"n":194,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west mouth. Matt keeps the rope for the hold. 3 steps, arc on the left lane, open."}
