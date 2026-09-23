@@ -868,3 +868,6 @@
 {"n":868,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east mouth. Ivo keeps the crate for the hold. 4 steps, arc on the left lane, open."}
 {"n":869,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. arc left open. 5 steps. The crate stays for the hold."}
 {"n":870,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at High line. Nobody past the east mouth. We hold in 6 steps. Arc on the left lane, open."}
+{"n":871,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east mouth. Bess keeps the crate for the hold. 7 steps, arc on the left lane, open."}
+{"n":872,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. arc left open. 8 steps. The crate stays for the hold."}
+{"n":873,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Ward gate. Nobody past the east mouth. We hold in 2 steps. Arc on the left lane, open."}
