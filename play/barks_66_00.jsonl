@@ -309,3 +309,6 @@
 {"n":309,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north curb. Nia keeps the rope for the hold. 3 steps, arc on the left lane, open."}
 {"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north curb. arc left open. 4 steps. The rope stays for the hold."}
 {"n":311,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Drydock. Nobody past the north curb. We hold in 5 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north curb. Ivo keeps the rope for the hold. 6 steps, arc on the left lane, open."}
+{"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north curb. arc left open. 7 steps. The rope stays for the hold."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Drydock. Nobody past the north curb. We hold in 8 steps. Arc on the left lane, open."}
