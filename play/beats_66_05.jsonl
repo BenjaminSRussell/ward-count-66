@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at the Lot. Nobody past the west mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":64,"kind":"place","name":"the Lot west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west mouth. Ivo keeps the radio coil for the hold. 5 steps, arc on the left lane, open."}
 {"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west mouth. arc left open. 6 steps. The radio coil stays for the hold."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the Lot. Nobody past the west mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":67,"kind":"place","name":"the Lot west mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west mouth. Bess keeps the radio coil for the hold. 8 steps, arc on the left lane, open."}
+{"n":68,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west mouth. arc left open. 2 steps. The radio coil stays for the hold."}
