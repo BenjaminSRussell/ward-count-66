@@ -202,3 +202,6 @@
 {"n":202,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Ward gate. Nobody past the west mouth. We hold in 4 steps. Arc on the left lane, open."}
 {"n":203,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the rope for the hold. 5 steps, arc on the left lane, open."}
 {"n":204,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. arc left open. 6 steps. The rope stays for the hold."}
+{"n":205,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Kessler alley. Nobody past the west mouth. We hold in 7 steps. Arc on the left lane, open."}
+{"n":206,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the rope for the hold. 8 steps, arc on the left lane, open."}
+{"n":207,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. arc left open. 2 steps. The rope stays for the hold."}
