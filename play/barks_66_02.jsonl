@@ -856,3 +856,6 @@
 {"n":856,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south curb. Ivo keeps the badge door for the hold. 2 steps, arc on the left lane, open."}
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south curb. arc left open. 3 steps. The badge door stays for the hold."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Ward gate. Nobody past the south curb. We hold in 4 steps. Arc on the left lane, open."}
+{"n":859,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south curb. Bess keeps the badge door for the hold. 5 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south curb. arc left open. 6 steps. The badge door stays for the hold."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Kessler alley. Nobody past the south curb. We hold in 7 steps. Arc on the left lane, open."}
